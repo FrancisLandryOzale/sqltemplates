@@ -1,2 +1,2 @@
 # sqltemplates
-SQL case
+SQL queries
